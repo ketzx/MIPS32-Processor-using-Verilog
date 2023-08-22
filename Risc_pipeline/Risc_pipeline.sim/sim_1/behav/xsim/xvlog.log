@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kapil/OneDrive - IIT Kanpur/MS IITK/VLSI/IITK/prep 2023/Projects/projects/MIPS 32/Risc_pipeline/Risc_pipeline.srcs/sources_1/new/pipe_mips_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_mips_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kapil/OneDrive - IIT Kanpur/MS IITK/VLSI/IITK/prep 2023/Projects/projects/MIPS 32/Risc_pipeline/Risc_pipeline.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

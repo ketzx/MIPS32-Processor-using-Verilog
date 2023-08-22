@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "pipe_mips_32_behav" "xil_defaultlib.pipe_mips_32" "xil_defaultlib.glbl" -log "elaborate.log" 
